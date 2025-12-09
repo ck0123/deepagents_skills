@@ -1,0 +1,25 @@
+{
+  "skills": {
+    "user_dir": "~/.deepagents/skills",
+    "project_dir": ".deepagents/skills"
+  },
+  "memory": {
+    "user_dir": "~/.deepagents/memory",
+    "project_dir": ".deepagents/memory"
+  },
+  "api": {
+    "openai_api_key": "",
+    "anthropic_api_key": "",
+    "google_api_key": "",
+    "tavily_api_key": "",
+    "deepseek_base_url": "https://api.deepseek.com/beta/",
+    "deepseek_model_name": "deepseek-chat",
+    "deepseek_api_key": "sk-xxxx",
+    "deepseek_model_enable_think": "disabled"
+  },
+  "agent": {
+    "default_model": "gpt-4o-mini",
+    "max_iterations": 10
+  }
+}
+
